@@ -20,11 +20,9 @@ Na tela do desafio, apresentamos os principais visuais que foram implementados:
 
 ## Dashboard Online
 
-Você pode visualizar o dashboard online através do seguinte link: [Dashboard Power BI]([https://link-do-seu-dashboard.com](https://app.powerbi.com/view?r=eyJrIjoiZmQyMDQzMDEtODFkNC00Yjk5LTk4NzYtYjBkYTRhNzAxNDZjIiwidCI6IjRhMjJmMTE2LTUxY2UtNGZlMy1hZWFhLTljNDYxNDNkMDg4YiJ9)])
+Você pode visualizar o dashboard online através do seguinte link: [Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmQyMDQzMDEtODFkNC00Yjk5LTk4NzYtYjBkYTRhNzAxNDZjIiwidCI6IjRhMjJmMTE2LTUxY2UtNGZlMy1hZWFhLTljNDYxNDNkMDg4YiJ9)
 
 ## Tecnologias Utilizadas
 
 - Power BI
 - Python (para manipulação de dados, se necessário)
-
-
